@@ -1,3 +1,1 @@
-👋 Hi, I’m Paulo Gustavo Lapetina!!!
-I’m interested in things that could help improve my skills.
-I’m currently learning Python / Django and doing some programs in C#
+Sou um desenvolvedor altamente qualificado em tecnologias .NET, com experiência em C# e Asp.net, bem como em linguagens como C, C++ e Python com Django Framework. Meu forte conhecimento em bancos de dados SQL e Oracle me permite projetar e desenvolver soluções de back-end altamente escaláveis e robustas. Estou constantemente atualizando minhas habilidades para incorporar as últimas tecnologias e ferramentas de desenvolvimento.
